@@ -11,6 +11,9 @@ package com.mycompany.javapokeapi;
 public class JavaPokeAPI {
 
     public static void main(String[] args) {
+    	
+    	System.out.println("nueva version");
+    	
         FormPokeapi objetoFormulario = new FormPokeapi();
     objetoFormulario.setVisible(true);
     }

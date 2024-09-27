@@ -13,6 +13,8 @@ import javax.swing.table.DefaultTableModel; // MANEJA MODELOS DE TABLA
 import org.json.JSONObject; // MANIPULAR ARREGLOS/HERRAMIENTAS JSON
 
 public class CPokeApi {
+	
+	
     
     /*MÉTODO QUE MUESTRA LA INFORMACIÓN DEL POKÉMON EN LA INTERFAZ*/
     public void MostrarPokemon (
